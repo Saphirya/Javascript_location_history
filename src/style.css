@@ -1,0 +1,11 @@
+.big {
+  height: 1100px;
+  width: 100%;
+  background-color: red;
+}
+
+#myhash {
+  height: 200px;
+  background-color: blue;
+  margin-bottom: 500px;
+}
